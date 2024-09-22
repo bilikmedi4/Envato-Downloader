@@ -1,17 +1,28 @@
 # Envato Downloader
 
-Panduan untuk menggunakan [Envato Downloader](https://bilikmedia.com/envanto-downloader) dari **BilikMedia.com**. Downloader ini memungkinkan Anda untuk mengunduh file dari Envato dengan cepat dan mudah.
+A guide on how to use the [Envato Downloader](https://bilikmedia.com/envanto-downloader) from **BilikMedia.com**. This tool allows you to quickly and easily download files from Envato.
 
-## Cara Menggunakan
+## How to Use
 
-1. Buka tautan berikut: [Envato Downloader](https://bilikmedia.com/envanto-downloader).
-2. Masukkan URL item Envato yang ingin Anda unduh ke dalam kolom yang disediakan.
-3. Klik tombol **"Download"**.
-4. Tunggu beberapa detik dan file Anda akan siap diunduh.
+1. Visit the following link: [Envato Downloader](https://bilikmedia.com/envanto-downloader).
+2. Enter the Envato item URL you wish to download in the provided field.
+3. Click the **"Download"** button.
+4. Wait a few seconds, and your file will be ready to download.
 
-## Fitur Utama
+## Key Features
 
-- **Cepat dan Efisien**: Mengunduh file dari Envato secara cepat.
-- **Gratis**: Layanan ini tidak dikenakan biaya.
-- **Antarmuka yang Mudah Digunakan**: Tidak memerlukan pengetahuan teknis khusus.
-  
+- **Fast and Efficient**: Quickly download files from Envato.
+- **Free of Charge**: This service is completely free.
+- **User-Friendly Interface**: No technical knowledge required.
+
+## Security
+
+The downloader is designed to ensure that your downloads are secure. Always make sure to respect the licenses and terms of service of Envato.
+
+## Disclaimer
+
+Please note that this tool is intended for users who have the proper licenses to download content from Envato. Misuse of the downloader for unauthorized downloads is not encouraged.
+
+## Support
+
+If you have any issues or suggestions, feel free to open an issue or contact us at [support@bilikmedia.com](mailto:support@bilikmedia.com).
